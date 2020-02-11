@@ -9,6 +9,6 @@
     <string name="numb3">ナンバーズ３</string>
     <string name="numb4">ナンバーズ４</string>
     <string name="bingo">ビンゴ５</string>
-    <string name="ikkatsu">一括で取得</string>
+    <string name="ikkatsu">一括取得</string>
     <string name="Qreset">リセット</string>
 </resources>
